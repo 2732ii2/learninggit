@@ -12,12 +12,7 @@ new update
 ## that's what my always to learn in preferreed in practical manner
 
 
-:wq
-
-
-
-
-
-
+## what we learn in this way every single command and how it works differently
+you can't learn this until you will try by your typing that's what I love 
 
 
